@@ -1,1 +1,22 @@
 # IMS456
+<html> 
+    <head> 
+        <body> 
+            <h1>STUDENT HTML</h1> 
+            <ul> 
+                <li>Title : E-resume Website</li> 
+                <li>Name : Siti Nur Athirah Lyiana Binti Suliman</li> 
+                <li>Student ID : 2021106109</li> 
+                <li>Group : IMS456 Elek A</li> 
+                <li>Course Code : IMS456</li> 
+                <li>Course Name : Basic Web Design & Content Management</li> 
+                <li>Program Code : IM246</li> 
+                <li>Faculty : Information Management</li> 
+                <li>Submission Date : 16 June 2022</li> 
+                <li>Published URL : https://athirah21.github.io/IMS456/</li> 
+                <li>Image</li> <img class="images" src="image/pro1.jpg"> 
+                 
+            </ul> 
+        </body> 
+    </head> 
+</html>
