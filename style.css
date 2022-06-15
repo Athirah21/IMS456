@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #fabdbd;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    font-size: 27px;
+    font-weight: bold;
+    background-image: url(image/lv_0_20220608021841\ \(1\).gif);
+}
+
+.navbar ul{
+    list-style: none;
+    background-color: #c2133e;
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+    position: relative;
+}
+
+.navbar ul li{
+    float: left;
+    border: 1px solid #bbb
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 11px 65px;
+    margin: auto;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover{
+    background-color: #d9d9d9;
+}
+
+.logo img {
+    float: left;
+    width: 94px;
+    height: 68px;
+    position: relative;
+}
+
+h1 {
+    font-size: 23px;
+    text-align: center;
+    background: gray;
+}
+
+p {
+    border-style: double;
+    border-color:maroon;
+    border-width: 5px 15px;
+    text-indent: 10px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 17px
+} 
+
+p2 {
+    font-weight: bold;
+    text-indent: 50px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 17px
+}
+
+.footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: black;
+}
+
+p3 {
+    text-align: center;
+    font-size: 17px;
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.profile2 {
+    position: static;
+}
+  
+.text {
+    font-size: 20px;
+    padding: 60px;
+    border-style: double;
+    background-color: #d9d9d9;
+    animation-name: example;
+    animation-duration: 9s;
+}
+
+@keyframes example {
+    0%   {background-color: #fabdbd;}
+    25%  {background-color: #c2133e;}
+    50%  {background-color: #d9d9d9;}
+    100% {background-color: #681714;}
+  }
+
+table {
+    border-style:initial;
+    color: #681714;
+    background-color: #d9d9d9;
+}
+
+th {
+    padding: 70px;
+    text-align: left;
+    border: 5px solid;
+    font-size: 23px;
+}
+
+td{
+    padding: 40px;
+    text-align: left;
+    border: 3px solid;
+    font-size: 23px;
+}
+
+
+video {
+    width: 50%;
+    height: auto;
+}
+
+table {
+    border-style:dotted;
+}
+
+th {
+    padding: 20px;
+    text-align: center;
+    font-size: 23px;
+}
+
+.container {
+    display: flex
+}
+
+.content form {
+    text-align: center;
+    text-decoration:none;
+}
+
+p5 {
+    font-size: 23px;
+    font-variant: small-caps;
+}
